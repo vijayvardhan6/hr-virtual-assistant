@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+venv/
+
+# Local data / vector DB
+qdrant_local/
+data/
+
+# Secrets / config
+.env
+.env.*.local
+
+# OS/editor
+.DS_Store
+*.swp
+.vscode/

@@ -1,0 +1,14 @@
+httpx
+pypdf
+python-dotenv
+qdrant-client
+streamlit
+langchain
+langchain_core
+langchain_groq
+langchain_qdrant
+langchain-community
+langchain_huggingface
+langchain_experimental
+langchain_text_splitters
+sentence-transformers
